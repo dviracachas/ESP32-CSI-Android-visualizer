@@ -1,2 +1,2 @@
 # ESP32-CSI-Android-visualizer
-Android app to display data from ESP32 CSI Tool
+Android app made using MIT App Inventor to display data from [StevenMHernandez's ESP32 CSI Tool](https://github.com/StevenMHernandez/ESP32-CSI-Tool) using [rkl099's SerialOTG Extension](https://github.com/rkl099/Appinventor-SerialOTG)
